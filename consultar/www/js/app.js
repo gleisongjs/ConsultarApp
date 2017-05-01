@@ -189,9 +189,9 @@ $rootScope.doctors=[{id:"1",img:"img/001.png",name:"John Mc Donald",specialty:"B
           templateUrl: 'templates/login.html'
     })
 
- .state('register', {
-      url: '/register',
-          templateUrl: 'templates/register.html'
+ .state('cadastro', {
+      url: '/cadastro',
+          templateUrl: 'templates/cadastro.html'
     })  
 
 
